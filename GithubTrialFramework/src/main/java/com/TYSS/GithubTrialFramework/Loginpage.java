@@ -1,6 +1,6 @@
 package com.TYSS.GithubTrialFramework;
 
-public class Login {
+public class Loginpage {
 
 	public void login(){
 }
